@@ -43,7 +43,7 @@ var rule = {
 	},
     timeout:5000,
     class_name:'全部&电影&电视剧&综艺&动漫',
-    class_url:'0&1&2&3&4',
+    class_url:'/api.php/provide/homeBlock?type_id=0&/api.php/provide/homeBlock?type_id=1&/api.php/provide/homeBlock?type_id=2&/api.php/provide/homeBlock?type_id=3&/api.php/provide/homeBlock?type_id=4',
     limit:20,
     play_parse:true,
     play_json:0,
