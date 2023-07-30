@@ -3,9 +3,8 @@
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.tk",
 "sites":[
-{"key":"drpy_js_ikanbot2","name":"影视 | 爱看机器人2","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot2.js"},
-{"key":"drpy_js_ikanbot3","name":"影视 | 爱看机器人3","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
-{"key":"drpy_js_荐片","name":"影视 | 荐片","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/荐片.js"},
+{"key":"drpy_js_ikanbot2","name":"影视 | 爱看","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot2.js"},
+{"key":"drpy_js_ikanbot3","name":"影视 | 爱看2","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/ikanbot3.js"},
 {"key":"drpy_js_酷云77","name":"影视 | 酷云77","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 {"key":"drpy_js_快看","name":"影视 | 快看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"drpy_js_爱看","name":"影视 | 爱看","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
